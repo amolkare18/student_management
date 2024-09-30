@@ -1,2 +1,3 @@
 # student_management
-here u can search or store the details of students
+Here you can search or store the details of students.
+you can also use search engine for searching specific student.
